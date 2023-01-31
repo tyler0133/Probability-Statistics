@@ -42,7 +42,7 @@ public class SetOperations {
            if (!list2.contains(element)) {
                complementList.add(element);
            }
-       }
+       
 
        return complementList;
    }
